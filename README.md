@@ -1,0 +1,1 @@
+Yes my observation does follow with Big-O analysis because Slice would take longer to sort the slice than SliceStable and possibly because it would sometimes change the order of elements that have the same value instead of keeping it the same order like SliceStable does.
